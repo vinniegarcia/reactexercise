@@ -1,0 +1,88 @@
+{
+    "patients": [
+        {
+            "name": "Bart Simpson",
+            "patientId": "BS4032",
+            "biomarkers": [
+                {
+                    "name": "ALK",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "HER2",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "name": "Homer Simpson",
+            "patientId": "HSDOH9",
+            "biomarkers": [
+                {
+                    "name": "ALK",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "EGFR",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "name": "Lisa Simpson",
+            "patientId": "LSSAX0",
+            "biomarkers": [
+                {
+                    "name": "HER2",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "EGFR",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "name": "Maggie Simpson",
+            "patientId": "MSPAC4",
+            "biomarkers": [
+                {
+                    "name": "HER2",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "ALK",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "name": "Marge Simpson",
+            "patientId": "MSHAIR1",
+            "biomarkers": [
+                {
+                    "name": "ALK",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "EGFR",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "name": "Monty Burns",
+            "patientId": "MB2039",
+            "biomarkers": [
+                {
+                    "name": "HER2",
+                    "value": "Postiive"
+                },
+                {
+                    "name": "EGFR",
+                    "value": "Negative"
+                }
+            ]
+        }
+    ]
+}
